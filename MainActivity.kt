@@ -14,6 +14,8 @@ import com.google.android.gms.maps.model.Marker
 class MainActivity : AppCompatActivity() {
 
 
+    //https://codinginfinite.com/car-location-tracking-android-app-firebase-tutorial/
+    
     companion object {
         private const val MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 2200
     }
